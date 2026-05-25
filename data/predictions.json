@@ -1,0 +1,3242 @@
+[
+  {
+    "id": "pred-M001",
+    "matchId": "M001",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 43,
+    "draw": 28,
+    "awayWin": 29,
+    "confidence": 63,
+    "homeStrength": 74,
+    "awayStrength": 69,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 78,
+        "awayImpact": 68,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 56.13333333333333,
+        "awayImpact": 56.13333333333333,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 82.625,
+        "awayImpact": 83.275,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Mexico llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M002",
+    "matchId": "M002",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 38,
+    "draw": 30,
+    "awayWin": 32,
+    "confidence": 59,
+    "homeStrength": 76,
+    "awayStrength": 74,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 76,
+        "awayImpact": 74,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 73.66666666666666,
+        "awayImpact": 70.86666666666666,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 85.45,
+        "awayImpact": 82.525,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Korea Republic llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M003",
+    "matchId": "M003",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 45,
+    "draw": 27,
+    "awayWin": 28,
+    "confidence": 65,
+    "homeStrength": 74,
+    "awayStrength": 67,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 76,
+        "awayImpact": 70,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 54.733333333333334,
+        "awayImpact": 45.266666666666666,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 85.625,
+        "awayImpact": 79.55000000000001,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Canada llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M004",
+    "matchId": "M004",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 47,
+    "draw": 27,
+    "awayWin": 26,
+    "confidence": 66,
+    "homeStrength": 78,
+    "awayStrength": 70,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 79,
+        "awayImpact": 74,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 70.86666666666666,
+        "awayImpact": 54.733333333333334,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 85.42500000000001,
+        "awayImpact": 79.2,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "United States llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M005",
+    "matchId": "M005",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 28,
+    "draw": 28,
+    "awayWin": 44,
+    "confidence": 64,
+    "homeStrength": 66,
+    "awayStrength": 72,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 62,
+        "awayImpact": 75,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 54.733333333333334,
+        "awayImpact": 53.333333333333336,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 79.10000000000001,
+        "awayImpact": 84.6,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Scotland llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M006",
+    "matchId": "M006",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 28,
+    "draw": 28,
+    "awayWin": 44,
+    "confidence": 64,
+    "homeStrength": 70,
+    "awayStrength": 76,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 72,
+        "awayImpact": 77,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 56.13333333333333,
+        "awayImpact": 70.86666666666666,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 80.95000000000002,
+        "awayImpact": 85.6,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Turkiye llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M007",
+    "matchId": "M007",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 41,
+    "draw": 29,
+    "awayWin": 30,
+    "confidence": 62,
+    "homeStrength": 83,
+    "awayStrength": 78,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 91,
+        "awayImpact": 82,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 75.06666666666666,
+        "awayImpact": 75.06666666666666,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 88.225,
+        "awayImpact": 84.7,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Brazil llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M008",
+    "matchId": "M008",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 32,
+    "draw": 30,
+    "awayWin": 38,
+    "confidence": 60,
+    "homeStrength": 72,
+    "awayStrength": 75,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 67,
+        "awayImpact": 80,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 70.86666666666666,
+        "awayImpact": 57.53333333333333,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 84.975,
+        "awayImpact": 85.75,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Switzerland llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M009",
+    "matchId": "M009",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 36,
+    "draw": 30,
+    "awayWin": 34,
+    "confidence": 58,
+    "homeStrength": 76,
+    "awayStrength": 75,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 78,
+        "awayImpact": 80,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 72.26666666666665,
+        "awayImpact": 57.53333333333333,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 83.65,
+        "awayImpact": 86.9,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Cote d'Ivoire llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M010",
+    "matchId": "M010",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 60,
+    "draw": 22,
+    "awayWin": 18,
+    "confidence": 78,
+    "homeStrength": 81,
+    "awayStrength": 65,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 87,
+        "awayImpact": 60,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 75.06666666666666,
+        "awayImpact": 56.13333333333333,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 89.15,
+        "awayImpact": 77.9,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Germany llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M011",
+    "matchId": "M011",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 31,
+    "draw": 29,
+    "awayWin": 40,
+    "confidence": 60,
+    "homeStrength": 80,
+    "awayStrength": 83,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 86,
+        "awayImpact": 82,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 73.66666666666666,
+        "awayImpact": 99.26666666666667,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 85.9,
+        "awayImpact": 85.05,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Japan llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M012",
+    "matchId": "M012",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 47,
+    "draw": 27,
+    "awayWin": 26,
+    "confidence": 67,
+    "homeStrength": 77,
+    "awayStrength": 69,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 77,
+        "awayImpact": 70,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 70.86666666666666,
+        "awayImpact": 54.733333333333334,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 89.875,
+        "awayImpact": 79.4,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Sweden llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M013",
+    "matchId": "M013",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 22,
+    "draw": 25,
+    "awayWin": 53,
+    "confidence": 71,
+    "homeStrength": 70,
+    "awayStrength": 81,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 70,
+        "awayImpact": 87,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 53.333333333333336,
+        "awayImpact": 73.66666666666666,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 83.2,
+        "awayImpact": 87.85000000000001,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Uruguay llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M014",
+    "matchId": "M014",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 66,
+    "draw": 20,
+    "awayWin": 14,
+    "confidence": 83,
+    "homeStrength": 87,
+    "awayStrength": 67,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 92,
+        "awayImpact": 66,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 99.26666666666667,
+        "awayImpact": 56.13333333333333,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 88.5,
+        "awayImpact": 76.7,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Spain llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M015",
+    "matchId": "M015",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 42,
+    "draw": 29,
+    "awayWin": 29,
+    "confidence": 62,
+    "homeStrength": 75,
+    "awayStrength": 70,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 76,
+        "awayImpact": 63,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 73.66666666666666,
+        "awayImpact": 72.26666666666665,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 80.25,
+        "awayImpact": 83.225,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "IR Iran llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M016",
+    "matchId": "M016",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 43,
+    "draw": 28,
+    "awayWin": 29,
+    "confidence": 63,
+    "homeStrength": 78,
+    "awayStrength": 73,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 84,
+        "awayImpact": 75,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 72.26666666666665,
+        "awayImpact": 57.53333333333333,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 83.75,
+        "awayImpact": 87.4,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Belgium llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M017",
+    "matchId": "M017",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 52,
+    "draw": 25,
+    "awayWin": 23,
+    "confidence": 70,
+    "homeStrength": 88,
+    "awayStrength": 77,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 93,
+        "awayImpact": 80,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 97.86666666666667,
+        "awayImpact": 72.26666666666665,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 89.05,
+        "awayImpact": 84,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "France llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M018",
+    "matchId": "M018",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 21,
+    "draw": 24,
+    "awayWin": 55,
+    "confidence": 73,
+    "homeStrength": 70,
+    "awayStrength": 83,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 66,
+        "awayImpact": 79,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 69.46666666666665,
+        "awayImpact": 100,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 80.05000000000001,
+        "awayImpact": 91.175,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Norway llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M019",
+    "matchId": "M019",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 60,
+    "draw": 22,
+    "awayWin": 18,
+    "confidence": 78,
+    "homeStrength": 87,
+    "awayStrength": 71,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 92,
+        "awayImpact": 75,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 97.86666666666667,
+        "awayImpact": 70.86666666666666,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 86.80000000000001,
+        "awayImpact": 71.25,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 82.5,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Argentina llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M020",
+    "matchId": "M020",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 44,
+    "draw": 28,
+    "awayWin": 28,
+    "confidence": 64,
+    "homeStrength": 72,
+    "awayStrength": 67,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 81,
+        "awayImpact": 64,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 73.66666666666666,
+        "awayImpact": 53.333333333333336,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 67.0875,
+        "awayImpact": 81.2,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 82.5,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Austria llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M021",
+    "matchId": "M021",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 33,
+    "draw": 30,
+    "awayWin": 37,
+    "confidence": 59,
+    "homeStrength": 67,
+    "awayStrength": 69,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 72,
+        "awayImpact": 68,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 54.733333333333334,
+        "awayImpact": 56.13333333333333,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 72.5625,
+        "awayImpact": 80.25,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 82.5,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Panama llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M022",
+    "matchId": "M022",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 49,
+    "draw": 26,
+    "awayWin": 25,
+    "confidence": 68,
+    "homeStrength": 83,
+    "awayStrength": 75,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 91,
+        "awayImpact": 82,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 76.46666666666665,
+        "awayImpact": 56.13333333333333,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 90.65,
+        "awayImpact": 83.15,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "England llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M023",
+    "matchId": "M023",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 59,
+    "draw": 23,
+    "awayWin": 18,
+    "confidence": 76,
+    "homeStrength": 85,
+    "awayStrength": 70,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 90,
+        "awayImpact": 70,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 92.6,
+        "awayImpact": 54.733333333333334,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 87.35,
+        "awayImpact": 83.05000000000001,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Portugal llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M024",
+    "matchId": "M024",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 28,
+    "draw": 28,
+    "awayWin": 44,
+    "confidence": 64,
+    "homeStrength": 73,
+    "awayStrength": 79,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 68,
+        "awayImpact": 84,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 78.93333333333332,
+        "awayImpact": 73.66666666666666,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 79.85,
+        "awayImpact": 84.775,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Colombia llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M025",
+    "matchId": "M025",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 42,
+    "draw": 28,
+    "awayWin": 30,
+    "confidence": 63,
+    "homeStrength": 74,
+    "awayStrength": 69,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 74,
+        "awayImpact": 68,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 70.86666666666666,
+        "awayImpact": 56.13333333333333,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 82.525,
+        "awayImpact": 83.275,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Czechia llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M026",
+    "matchId": "M026",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 47,
+    "draw": 27,
+    "awayWin": 26,
+    "confidence": 66,
+    "homeStrength": 75,
+    "awayStrength": 67,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 80,
+        "awayImpact": 70,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 57.53333333333333,
+        "awayImpact": 45.266666666666666,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 85.75,
+        "awayImpact": 79.55000000000001,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Switzerland llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M027",
+    "matchId": "M027",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 38,
+    "draw": 30,
+    "awayWin": 32,
+    "confidence": 59,
+    "homeStrength": 74,
+    "awayStrength": 72,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 76,
+        "awayImpact": 67,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 54.733333333333334,
+        "awayImpact": 70.86666666666666,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 85.625,
+        "awayImpact": 84.975,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Canada llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M028",
+    "matchId": "M028",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 33,
+    "draw": 30,
+    "awayWin": 37,
+    "confidence": 59,
+    "homeStrength": 74,
+    "awayStrength": 76,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 78,
+        "awayImpact": 76,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 56.13333333333333,
+        "awayImpact": 73.66666666666666,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 82.625,
+        "awayImpact": 85.45,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Korea Republic llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M029",
+    "matchId": "M029",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 61,
+    "draw": 22,
+    "awayWin": 17,
+    "confidence": 78,
+    "homeStrength": 83,
+    "awayStrength": 66,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 91,
+        "awayImpact": 62,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 75.06666666666666,
+        "awayImpact": 54.733333333333334,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 88.225,
+        "awayImpact": 79.10000000000001,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Brazil llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M030",
+    "matchId": "M030",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 27,
+    "draw": 27,
+    "awayWin": 46,
+    "confidence": 65,
+    "homeStrength": 72,
+    "awayStrength": 78,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 75,
+        "awayImpact": 82,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 53.333333333333336,
+        "awayImpact": 75.06666666666666,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 84.6,
+        "awayImpact": 84.7,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Morocco llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M031",
+    "matchId": "M031",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 43,
+    "draw": 28,
+    "awayWin": 29,
+    "confidence": 63,
+    "homeStrength": 76,
+    "awayStrength": 70,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 77,
+        "awayImpact": 74,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 70.86666666666666,
+        "awayImpact": 54.733333333333334,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 85.6,
+        "awayImpact": 79.2,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Turkiye llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M032",
+    "matchId": "M032",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 47,
+    "draw": 27,
+    "awayWin": 26,
+    "confidence": 66,
+    "homeStrength": 78,
+    "awayStrength": 70,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 79,
+        "awayImpact": 72,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 70.86666666666666,
+        "awayImpact": 56.13333333333333,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 85.42500000000001,
+        "awayImpact": 80.95000000000002,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "United States llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M033",
+    "matchId": "M033",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 43,
+    "draw": 28,
+    "awayWin": 29,
+    "confidence": 63,
+    "homeStrength": 81,
+    "awayStrength": 76,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 87,
+        "awayImpact": 78,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 75.06666666666666,
+        "awayImpact": 72.26666666666665,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 89.15,
+        "awayImpact": 83.65,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Germany llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M034",
+    "matchId": "M034",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 51,
+    "draw": 26,
+    "awayWin": 23,
+    "confidence": 69,
+    "homeStrength": 75,
+    "awayStrength": 65,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 80,
+        "awayImpact": 60,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 57.53333333333333,
+        "awayImpact": 56.13333333333333,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 86.9,
+        "awayImpact": 77.9,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Ecuador llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M035",
+    "matchId": "M035",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 39,
+    "draw": 29,
+    "awayWin": 32,
+    "confidence": 60,
+    "homeStrength": 80,
+    "awayStrength": 77,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 86,
+        "awayImpact": 77,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 73.66666666666666,
+        "awayImpact": 70.86666666666666,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 85.9,
+        "awayImpact": 89.875,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Netherlands llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M036",
+    "matchId": "M036",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 20,
+    "draw": 23,
+    "awayWin": 57,
+    "confidence": 74,
+    "homeStrength": 69,
+    "awayStrength": 83,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 70,
+        "awayImpact": 82,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 54.733333333333334,
+        "awayImpact": 99.26666666666667,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 79.4,
+        "awayImpact": 85.05,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Japan llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M037",
+    "matchId": "M037",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 57,
+    "draw": 24,
+    "awayWin": 19,
+    "confidence": 74,
+    "homeStrength": 81,
+    "awayStrength": 67,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 87,
+        "awayImpact": 66,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 73.66666666666666,
+        "awayImpact": 56.13333333333333,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 87.85000000000001,
+        "awayImpact": 76.7,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Uruguay llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M038",
+    "matchId": "M038",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 63,
+    "draw": 21,
+    "awayWin": 16,
+    "confidence": 80,
+    "homeStrength": 87,
+    "awayStrength": 70,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 92,
+        "awayImpact": 70,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 99.26666666666667,
+        "awayImpact": 53.333333333333336,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 88.5,
+        "awayImpact": 83.2,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Spain llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M039",
+    "matchId": "M039",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 40,
+    "draw": 29,
+    "awayWin": 31,
+    "confidence": 61,
+    "homeStrength": 78,
+    "awayStrength": 75,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 84,
+        "awayImpact": 76,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 72.26666666666665,
+        "awayImpact": 73.66666666666666,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 83.75,
+        "awayImpact": 80.25,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Belgium llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M040",
+    "matchId": "M040",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 31,
+    "draw": 29,
+    "awayWin": 40,
+    "confidence": 60,
+    "homeStrength": 70,
+    "awayStrength": 73,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 63,
+        "awayImpact": 75,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 72.26666666666665,
+        "awayImpact": 57.53333333333333,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 83.225,
+        "awayImpact": 87.4,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Egypt llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M041",
+    "matchId": "M041",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 45,
+    "draw": 28,
+    "awayWin": 27,
+    "confidence": 64,
+    "homeStrength": 83,
+    "awayStrength": 77,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 79,
+        "awayImpact": 80,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 100,
+        "awayImpact": 72.26666666666665,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 91.175,
+        "awayImpact": 84,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Norway llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M042",
+    "matchId": "M042",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 62,
+    "draw": 21,
+    "awayWin": 17,
+    "confidence": 79,
+    "homeStrength": 88,
+    "awayStrength": 70,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 93,
+        "awayImpact": 66,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 97.86666666666667,
+        "awayImpact": 69.46666666666665,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 89.05,
+        "awayImpact": 80.05000000000001,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "France llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M043",
+    "matchId": "M043",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 58,
+    "draw": 23,
+    "awayWin": 19,
+    "confidence": 75,
+    "homeStrength": 87,
+    "awayStrength": 72,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 92,
+        "awayImpact": 81,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 97.86666666666667,
+        "awayImpact": 73.66666666666666,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 86.80000000000001,
+        "awayImpact": 67.0875,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 82.5,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Argentina llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M044",
+    "matchId": "M044",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 30,
+    "draw": 29,
+    "awayWin": 41,
+    "confidence": 61,
+    "homeStrength": 67,
+    "awayStrength": 71,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 64,
+        "awayImpact": 75,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 53.333333333333336,
+        "awayImpact": 70.86666666666666,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 81.2,
+        "awayImpact": 71.25,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 82.5,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Algeria llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M045",
+    "matchId": "M045",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 61,
+    "draw": 22,
+    "awayWin": 17,
+    "confidence": 78,
+    "homeStrength": 83,
+    "awayStrength": 67,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 91,
+        "awayImpact": 72,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 76.46666666666665,
+        "awayImpact": 54.733333333333334,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 90.65,
+        "awayImpact": 72.5625,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 82.5,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "England llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M046",
+    "matchId": "M046",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 28,
+    "draw": 28,
+    "awayWin": 44,
+    "confidence": 64,
+    "homeStrength": 69,
+    "awayStrength": 75,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 68,
+        "awayImpact": 82,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 56.13333333333333,
+        "awayImpact": 56.13333333333333,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 80.25,
+        "awayImpact": 83.15,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Croatia llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M047",
+    "matchId": "M047",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 55,
+    "draw": 24,
+    "awayWin": 21,
+    "confidence": 73,
+    "homeStrength": 85,
+    "awayStrength": 73,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 90,
+        "awayImpact": 68,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 92.6,
+        "awayImpact": 78.93333333333332,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 87.35,
+        "awayImpact": 79.85,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Portugal llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M048",
+    "matchId": "M048",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 49,
+    "draw": 26,
+    "awayWin": 25,
+    "confidence": 68,
+    "homeStrength": 79,
+    "awayStrength": 70,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 84,
+        "awayImpact": 70,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 73.66666666666666,
+        "awayImpact": 54.733333333333334,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 84.775,
+        "awayImpact": 83.05000000000001,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Colombia llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M049",
+    "matchId": "M049",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 23,
+    "draw": 25,
+    "awayWin": 52,
+    "confidence": 70,
+    "homeStrength": 72,
+    "awayStrength": 83,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 75,
+        "awayImpact": 91,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 53.333333333333336,
+        "awayImpact": 75.06666666666666,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 84.6,
+        "awayImpact": 88.225,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Brazil llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M050",
+    "matchId": "M050",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 55,
+    "draw": 24,
+    "awayWin": 21,
+    "confidence": 73,
+    "homeStrength": 78,
+    "awayStrength": 66,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 82,
+        "awayImpact": 62,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 75.06666666666666,
+        "awayImpact": 54.733333333333334,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 84.7,
+        "awayImpact": 79.10000000000001,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Morocco llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M051",
+    "matchId": "M051",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 36,
+    "draw": 31,
+    "awayWin": 33,
+    "confidence": 57,
+    "homeStrength": 75,
+    "awayStrength": 74,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 80,
+        "awayImpact": 76,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 57.53333333333333,
+        "awayImpact": 54.733333333333334,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 85.75,
+        "awayImpact": 85.625,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Switzerland llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M052",
+    "matchId": "M052",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 29,
+    "draw": 28,
+    "awayWin": 43,
+    "confidence": 62,
+    "homeStrength": 67,
+    "awayStrength": 72,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 70,
+        "awayImpact": 67,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 45.266666666666666,
+        "awayImpact": 70.86666666666666,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 79.55000000000001,
+        "awayImpact": 84.975,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Qatar llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M053",
+    "matchId": "M053",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 34,
+    "draw": 31,
+    "awayWin": 35,
+    "confidence": 57,
+    "homeStrength": 74,
+    "awayStrength": 74,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 74,
+        "awayImpact": 78,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 70.86666666666666,
+        "awayImpact": 56.13333333333333,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 82.525,
+        "awayImpact": 82.625,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Mexico llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M054",
+    "matchId": "M054",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 27,
+    "draw": 27,
+    "awayWin": 46,
+    "confidence": 65,
+    "homeStrength": 69,
+    "awayStrength": 76,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 68,
+        "awayImpact": 76,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 56.13333333333333,
+        "awayImpact": 73.66666666666666,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 83.275,
+        "awayImpact": 85.45,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Korea Republic llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M055",
+    "matchId": "M055",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 23,
+    "draw": 25,
+    "awayWin": 52,
+    "confidence": 71,
+    "homeStrength": 65,
+    "awayStrength": 76,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 60,
+        "awayImpact": 78,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 56.13333333333333,
+        "awayImpact": 72.26666666666665,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 77.9,
+        "awayImpact": 83.65,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Cote d'Ivoire llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M056",
+    "matchId": "M056",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 28,
+    "draw": 28,
+    "awayWin": 44,
+    "confidence": 65,
+    "homeStrength": 75,
+    "awayStrength": 81,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 80,
+        "awayImpact": 87,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 57.53333333333333,
+        "awayImpact": 75.06666666666666,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 86.9,
+        "awayImpact": 89.15,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Germany llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M057",
+    "matchId": "M057",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 44,
+    "draw": 28,
+    "awayWin": 28,
+    "confidence": 64,
+    "homeStrength": 83,
+    "awayStrength": 77,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 82,
+        "awayImpact": 77,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 99.26666666666667,
+        "awayImpact": 70.86666666666666,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 85.05,
+        "awayImpact": 89.875,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Japan llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M058",
+    "matchId": "M058",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 23,
+    "draw": 25,
+    "awayWin": 52,
+    "confidence": 71,
+    "homeStrength": 69,
+    "awayStrength": 80,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 70,
+        "awayImpact": 86,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 54.733333333333334,
+        "awayImpact": 73.66666666666666,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 79.4,
+        "awayImpact": 85.9,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Netherlands llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M059",
+    "matchId": "M059",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 32,
+    "draw": 30,
+    "awayWin": 38,
+    "confidence": 59,
+    "homeStrength": 76,
+    "awayStrength": 78,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 77,
+        "awayImpact": 79,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 70.86666666666666,
+        "awayImpact": 70.86666666666666,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 85.6,
+        "awayImpact": 85.42500000000001,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "United States llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M060",
+    "matchId": "M060",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 35,
+    "draw": 31,
+    "awayWin": 34,
+    "confidence": 56,
+    "homeStrength": 70,
+    "awayStrength": 70,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 74,
+        "awayImpact": 72,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 54.733333333333334,
+        "awayImpact": 56.13333333333333,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 79.2,
+        "awayImpact": 80.95000000000002,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Paraguay llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M061",
+    "matchId": "M061",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 30,
+    "draw": 29,
+    "awayWin": 41,
+    "confidence": 62,
+    "homeStrength": 83,
+    "awayStrength": 88,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 79,
+        "awayImpact": 93,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 100,
+        "awayImpact": 97.86666666666667,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 91.175,
+        "awayImpact": 89.05,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "France llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M062",
+    "matchId": "M062",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 45,
+    "draw": 27,
+    "awayWin": 28,
+    "confidence": 65,
+    "homeStrength": 77,
+    "awayStrength": 70,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 80,
+        "awayImpact": 66,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 72.26666666666665,
+        "awayImpact": 69.46666666666665,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 84,
+        "awayImpact": 80.05000000000001,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Senegal llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M063",
+    "matchId": "M063",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 33,
+    "draw": 30,
+    "awayWin": 37,
+    "confidence": 59,
+    "homeStrength": 73,
+    "awayStrength": 75,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 75,
+        "awayImpact": 76,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 57.53333333333333,
+        "awayImpact": 73.66666666666666,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 87.4,
+        "awayImpact": 80.25,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "IR Iran llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M064",
+    "matchId": "M064",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 26,
+    "draw": 27,
+    "awayWin": 47,
+    "confidence": 67,
+    "homeStrength": 70,
+    "awayStrength": 78,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 63,
+        "awayImpact": 84,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 72.26666666666665,
+        "awayImpact": 72.26666666666665,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 83.225,
+        "awayImpact": 83.75,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Belgium llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M065",
+    "matchId": "M065",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 32,
+    "draw": 30,
+    "awayWin": 38,
+    "confidence": 59,
+    "homeStrength": 67,
+    "awayStrength": 70,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 66,
+        "awayImpact": 70,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 56.13333333333333,
+        "awayImpact": 53.333333333333336,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 76.7,
+        "awayImpact": 83.2,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Saudi Arabia llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M066",
+    "matchId": "M066",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 27,
+    "draw": 27,
+    "awayWin": 46,
+    "confidence": 65,
+    "homeStrength": 81,
+    "awayStrength": 87,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 87,
+        "awayImpact": 92,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 73.66666666666666,
+        "awayImpact": 99.26666666666667,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 87.85000000000001,
+        "awayImpact": 88.5,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Spain llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M067",
+    "matchId": "M067",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 19,
+    "draw": 23,
+    "awayWin": 58,
+    "confidence": 76,
+    "homeStrength": 69,
+    "awayStrength": 83,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 68,
+        "awayImpact": 91,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 56.13333333333333,
+        "awayImpact": 76.46666666666665,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 80.25,
+        "awayImpact": 90.65,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "England llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M068",
+    "matchId": "M068",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 47,
+    "draw": 27,
+    "awayWin": 26,
+    "confidence": 67,
+    "homeStrength": 75,
+    "awayStrength": 67,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 82,
+        "awayImpact": 72,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 56.13333333333333,
+        "awayImpact": 54.733333333333334,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 83.15,
+        "awayImpact": 72.5625,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 82.5,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Croatia llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M069",
+    "matchId": "M069",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 33,
+    "draw": 30,
+    "awayWin": 37,
+    "confidence": 59,
+    "homeStrength": 71,
+    "awayStrength": 72,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 75,
+        "awayImpact": 81,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 70.86666666666666,
+        "awayImpact": 73.66666666666666,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 71.25,
+        "awayImpact": 67.0875,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 82.5,
+        "awayImpact": 82.5,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Austria llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M070",
+    "matchId": "M070",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 14,
+    "draw": 20,
+    "awayWin": 66,
+    "confidence": 82,
+    "homeStrength": 67,
+    "awayStrength": 87,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 64,
+        "awayImpact": 92,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 53.333333333333336,
+        "awayImpact": 97.86666666666667,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 81.2,
+        "awayImpact": 86.80000000000001,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Argentina llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M071",
+    "matchId": "M071",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 28,
+    "draw": 28,
+    "awayWin": 44,
+    "confidence": 65,
+    "homeStrength": 79,
+    "awayStrength": 85,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 84,
+        "awayImpact": 90,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 73.66666666666666,
+        "awayImpact": 92.6,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 84.775,
+        "awayImpact": 87.35,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Portugal llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  },
+  {
+    "id": "pred-M072",
+    "matchId": "M072",
+    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "modelVersion": "2026.1-json-v1",
+    "homeWin": 31,
+    "draw": 29,
+    "awayWin": 40,
+    "confidence": 60,
+    "homeStrength": 70,
+    "awayStrength": 73,
+    "factors": [
+      {
+        "label": "Rating base",
+        "homeImpact": 70,
+        "awayImpact": 68,
+        "note": "Nivel estructural estimado antes del torneo."
+      },
+      {
+        "label": "Forma reciente",
+        "homeImpact": 54.733333333333334,
+        "awayImpact": 78.93333333333332,
+        "note": "Resultados y balance de goles previos."
+      },
+      {
+        "label": "Plantel",
+        "homeImpact": 83.05000000000001,
+        "awayImpact": 79.85,
+        "note": "Momento, ritmo, fitness e importancia de jugadores clave."
+      },
+      {
+        "label": "Disponibilidad",
+        "homeImpact": 100,
+        "awayImpact": 100,
+        "note": "Penaliza dudas, lesiones o suspensiones."
+      },
+      {
+        "label": "Aprendizaje torneo",
+        "homeImpact": 50,
+        "awayImpact": 50,
+        "note": "Se mueve con resultados ya cargados en la app."
+      }
+    ],
+    "explanation": "Uzbekistan llega con ventaja: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados."
+  }
+]

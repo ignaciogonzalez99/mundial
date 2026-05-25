@@ -1,0 +1,20 @@
+[
+  {
+    "id": "sync-1779728778078",
+    "source": "manual-verification",
+    "status": "skipped",
+    "startedAt": "2026-05-25T17:06:18.078Z",
+    "finishedAt": "2026-05-25T17:06:18.078Z",
+    "changesApplied": 0,
+    "message": "Verificacion local del endpoint /api/sync durante implementacion."
+  },
+  {
+    "id": "sync-initial-2026-05-25",
+    "source": "FIFA.com match schedule and published draw coverage",
+    "status": "success",
+    "startedAt": "2026-05-25T00:00:00.000Z",
+    "finishedAt": "2026-05-25T00:00:00.000Z",
+    "changesApplied": 1,
+    "message": "Carga inicial: grupos y fixture de fase de grupos del Mundial 2026; planteles clave parciales para analitica local."
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "version": "2026.1-json-v1",
+  "lastUpdated": "2026-05-25T00:00:00.000Z",
+  "weights": {
+    "baseRating": 0.38,
+    "form": 0.18,
+    "squad": 0.22,
+    "tournamentResults": 0.1,
+    "availability": 0.08,
+    "hostContext": 0.04
+  },
+  "teamAdjustments": []
+}
