@@ -20,6 +20,125 @@ function roundPercentages(home: number, draw: number) {
   };
 }
 
+function clampGoalValue(value: number, min = 0.2, max = 4.2) {
+  return Math.min(max, Math.max(min, value));
+}
+
+function roundGoalValue(value: number) {
+  return Math.round(value * 10) / 10;
+}
+
+function poisson(lambda: number, goals: number) {
+  let factorial = 1;
+  for (let i = 2; i <= goals; i += 1) {
+    factorial *= i;
+  }
+  return (Math.exp(-lambda) * lambda ** goals) / factorial;
+}
+
+function expectedGoalsFor(
+  team: Team,
+  opponent: Team,
+  teamStrength: { total: number; squad: number; availability: number },
+  opponentStrength: { total: number },
+) {
+  const teamGames = Math.max(team.recentForm.length, 1);
+  const opponentGames = Math.max(opponent.recentForm.length, 1);
+  const scoringRate = team.goalsForRecent / teamGames;
+  const opponentConcedingRate = opponent.goalsAgainstRecent / opponentGames;
+  const recentGoalSignal = scoringRate * 0.58 + opponentConcedingRate * 0.32 + 1.35 * 0.1;
+  const strengthSignal = (teamStrength.total - opponentStrength.total) * 0.028;
+  const squadSignal = (teamStrength.squad - 72) * 0.006;
+  const availabilitySignal = (teamStrength.availability - 85) * 0.004;
+
+  return roundGoalValue(
+    clampGoalValue(recentGoalSignal + strengthSignal + squadSignal + availabilitySignal),
+  );
+}
+
+function buildWinningProjection(
+  winner: "home" | "away",
+  homeExpectedGoals: number,
+  awayExpectedGoals: number,
+) {
+  const maxGoals = 7;
+  let eventProbability = 0;
+  let eventHomeGoals = 0;
+  let eventAwayGoals = 0;
+  let topScore = {
+    homeScore: winner === "home" ? 1 : 0,
+    awayScore: winner === "home" ? 0 : 1,
+    probability: 0,
+  };
+
+  for (let homeScore = 0; homeScore <= maxGoals; homeScore += 1) {
+    for (let awayScore = 0; awayScore <= maxGoals; awayScore += 1) {
+      const isWinner =
+        winner === "home" ? homeScore > awayScore : awayScore > homeScore;
+
+      if (!isWinner) {
+        continue;
+      }
+
+      const probability =
+        poisson(homeExpectedGoals, homeScore) * poisson(awayExpectedGoals, awayScore);
+      eventProbability += probability;
+      eventHomeGoals += homeScore * probability;
+      eventAwayGoals += awayScore * probability;
+
+      if (probability > topScore.probability) {
+        topScore = { homeScore, awayScore, probability };
+      }
+    }
+  }
+
+  const safeEventProbability = eventProbability || 1;
+  const goalsFor =
+    winner === "home"
+      ? eventHomeGoals / safeEventProbability
+      : eventAwayGoals / safeEventProbability;
+  const goalsAgainst =
+    winner === "home"
+      ? eventAwayGoals / safeEventProbability
+      : eventHomeGoals / safeEventProbability;
+
+  return {
+    goalsFor: roundGoalValue(goalsFor),
+    goalsAgainst: roundGoalValue(goalsAgainst),
+    homeScore: topScore.homeScore,
+    awayScore: topScore.awayScore,
+    scoreline: `${topScore.homeScore}-${topScore.awayScore}`,
+    scorelineProbability: Math.round((topScore.probability / safeEventProbability) * 100),
+  };
+}
+
+function buildGoalProjection(
+  homeTeam: Team,
+  awayTeam: Team,
+  homeStrength: { total: number; squad: number; availability: number },
+  awayStrength: { total: number; squad: number; availability: number },
+) {
+  const homeExpectedGoals = expectedGoalsFor(
+    homeTeam,
+    awayTeam,
+    homeStrength,
+    awayStrength,
+  );
+  const awayExpectedGoals = expectedGoalsFor(
+    awayTeam,
+    homeTeam,
+    awayStrength,
+    homeStrength,
+  );
+
+  return {
+    homeExpectedGoals,
+    awayExpectedGoals,
+    homeWin: buildWinningProjection("home", homeExpectedGoals, awayExpectedGoals),
+    awayWin: buildWinningProjection("away", homeExpectedGoals, awayExpectedGoals),
+  };
+}
+
 export function generatePrediction(
   match: Match,
   teams: Team[],
@@ -60,6 +179,12 @@ export function generatePrediction(
   const homeRaw = diff >= 0 ? nonDraw * (0.5 + decisiveBias) : nonDraw * (0.5 - decisiveBias);
   const percentages = roundPercentages(homeRaw, drawRaw);
   const confidence = clamp(48 + Math.abs(diff) * 1.25 + (100 - drawRaw) * 0.12, 35, 88);
+  const goalProjection = buildGoalProjection(
+    homeTeam,
+    awayTeam,
+    homeStrength,
+    awayStrength,
+  );
 
   const factors = [
     {
@@ -112,6 +237,7 @@ export function generatePrediction(
     confidence: Math.round(confidence),
     homeStrength: Math.round(homeStrength.total),
     awayStrength: Math.round(awayStrength.total),
+    goalProjection,
     factors,
     explanation: `${favorite}: el modelo combina rating, forma, plantel, disponibilidad y aprendizaje de resultados cargados.`,
   };

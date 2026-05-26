@@ -87,6 +87,22 @@ const predictionFactorSchema = z.object({
   note: z.string(),
 });
 
+const winningGoalProjectionSchema = z.object({
+  goalsFor: z.number().min(0),
+  goalsAgainst: z.number().min(0),
+  homeScore: z.number().int().min(0),
+  awayScore: z.number().int().min(0),
+  scoreline: z.string().min(1),
+  scorelineProbability: z.number().min(0).max(100),
+});
+
+const goalProjectionSchema = z.object({
+  homeExpectedGoals: z.number().min(0),
+  awayExpectedGoals: z.number().min(0),
+  homeWin: winningGoalProjectionSchema,
+  awayWin: winningGoalProjectionSchema,
+});
+
 export const predictionSchema = z.object({
   id: z.string().min(1),
   matchId: z.string().min(1),
@@ -98,6 +114,7 @@ export const predictionSchema = z.object({
   confidence: z.number().min(0).max(100),
   homeStrength: z.number().min(0).max(100),
   awayStrength: z.number().min(0).max(100),
+  goalProjection: goalProjectionSchema,
   factors: z.array(predictionFactorSchema),
   explanation: z.string(),
 });

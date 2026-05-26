@@ -91,5 +91,12 @@ describe("predictionEngine", () => {
     expect(prediction.homeWin).toBeGreaterThan(prediction.awayWin);
     expect(prediction.confidence).toBeGreaterThan(50);
     expect(prediction.factors).toHaveLength(5);
+    expect(prediction.goalProjection.homeWin.goalsFor).toBeGreaterThan(
+      prediction.goalProjection.homeWin.goalsAgainst,
+    );
+    expect(prediction.goalProjection.awayWin.goalsFor).toBeGreaterThan(
+      prediction.goalProjection.awayWin.goalsAgainst,
+    );
+    expect(prediction.goalProjection.homeWin.scoreline).toMatch(/^\d+-\d+$/);
   });
 });

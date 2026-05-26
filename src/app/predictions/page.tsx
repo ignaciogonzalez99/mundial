@@ -3,6 +3,7 @@ import { Badge } from "@/components/ui/badge";
 import { buttonVariants } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { PageHeader } from "@/components/common/page-header";
+import { GoalProjection } from "@/components/predictions/goal-projection";
 import { ProbabilityBar } from "@/components/predictions/probability-bar";
 import { getTournamentData } from "@/lib/analysis";
 import { cn } from "@/lib/utils";
@@ -54,6 +55,13 @@ export default async function PredictionsPage() {
                     home={prediction.homeWin}
                     draw={prediction.draw}
                     away={prediction.awayWin}
+                    homeLabel={homeTeam.shortName}
+                    awayLabel={awayTeam.shortName}
+                  />
+                  <GoalProjection
+                    prediction={prediction}
+                    homeTeam={homeTeam}
+                    awayTeam={awayTeam}
                   />
                   <p className="text-sm leading-6 text-muted-foreground">
                     {prediction.explanation}

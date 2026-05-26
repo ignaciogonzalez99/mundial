@@ -2,10 +2,19 @@ type ProbabilityBarProps = {
   home: number;
   draw: number;
   away: number;
+  homeLabel?: string;
+  awayLabel?: string;
   compact?: boolean;
 };
 
-export function ProbabilityBar({ home, draw, away, compact }: ProbabilityBarProps) {
+export function ProbabilityBar({
+  home,
+  draw,
+  away,
+  homeLabel = "Equipo 1",
+  awayLabel = "Equipo 2",
+  compact,
+}: ProbabilityBarProps) {
   return (
     <div className="space-y-2">
       <div className="flex h-2 overflow-hidden rounded-full bg-secondary">
@@ -15,14 +24,17 @@ export function ProbabilityBar({ home, draw, away, compact }: ProbabilityBarProp
       </div>
       {!compact ? (
         <div className="grid grid-cols-3 gap-2 text-xs text-muted-foreground">
-          <span>
-            Local <strong className="metric-mono text-foreground">{home}%</strong>
+          <span className="min-w-0">
+            <span className="block truncate">{homeLabel}</span>
+            <strong className="metric-mono text-foreground">{home}%</strong>
           </span>
           <span className="text-center">
-            Empate <strong className="metric-mono text-foreground">{draw}%</strong>
+            <span className="block">Empate</span>
+            <strong className="metric-mono text-foreground">{draw}%</strong>
           </span>
-          <span className="text-right">
-            Visita <strong className="metric-mono text-foreground">{away}%</strong>
+          <span className="min-w-0 text-right">
+            <span className="block truncate">{awayLabel}</span>
+            <strong className="metric-mono text-foreground">{away}%</strong>
           </span>
         </div>
       ) : null}

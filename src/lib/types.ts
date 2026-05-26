@@ -103,6 +103,22 @@ export type PredictionFactor = {
   note: string;
 };
 
+export type WinningGoalProjection = {
+  goalsFor: number;
+  goalsAgainst: number;
+  homeScore: number;
+  awayScore: number;
+  scoreline: string;
+  scorelineProbability: number;
+};
+
+export type GoalProjection = {
+  homeExpectedGoals: number;
+  awayExpectedGoals: number;
+  homeWin: WinningGoalProjection;
+  awayWin: WinningGoalProjection;
+};
+
 export type Prediction = {
   id: string;
   matchId: string;
@@ -114,6 +130,7 @@ export type Prediction = {
   confidence: number;
   homeStrength: number;
   awayStrength: number;
+  goalProjection: GoalProjection;
   factors: PredictionFactor[];
   explanation: string;
 };

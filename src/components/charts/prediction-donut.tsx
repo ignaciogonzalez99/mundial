@@ -7,6 +7,8 @@ type PredictionDonutProps = {
   home: number;
   draw: number;
   away: number;
+  homeLabel?: string;
+  awayLabel?: string;
 };
 
 const COLORS = ["var(--chart-1)", "var(--chart-2)", "var(--chart-4)"];
@@ -14,16 +16,22 @@ const emptySubscribe = () => () => undefined;
 const getClientSnapshot = () => true;
 const getServerSnapshot = () => false;
 
-export function PredictionDonut({ home, draw, away }: PredictionDonutProps) {
+export function PredictionDonut({
+  home,
+  draw,
+  away,
+  homeLabel = "Equipo 1",
+  awayLabel = "Equipo 2",
+}: PredictionDonutProps) {
   const mounted = useSyncExternalStore(
     emptySubscribe,
     getClientSnapshot,
     getServerSnapshot,
   );
   const data = [
-    { name: "Local", value: home },
+    { name: homeLabel, value: home },
     { name: "Empate", value: draw },
-    { name: "Visita", value: away },
+    { name: awayLabel, value: away },
   ];
 
   if (!mounted) {

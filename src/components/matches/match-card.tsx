@@ -5,6 +5,7 @@ import { buttonVariants } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { formatDate } from "@/lib/view";
 import type { Match, Prediction, Team } from "@/lib/types";
+import { GoalProjection } from "@/components/predictions/goal-projection";
 import { ProbabilityBar } from "@/components/predictions/probability-bar";
 import { cn } from "@/lib/utils";
 
@@ -55,12 +56,22 @@ export function MatchCard({ match, homeTeam, awayTeam, prediction }: MatchCardPr
           </span>
         </div>
         {prediction ? (
-          <ProbabilityBar
-            home={prediction.homeWin}
-            draw={prediction.draw}
-            away={prediction.awayWin}
-            compact
-          />
+          <div className="space-y-3">
+            <ProbabilityBar
+              home={prediction.homeWin}
+              draw={prediction.draw}
+              away={prediction.awayWin}
+              homeLabel={homeTeam.shortName}
+              awayLabel={awayTeam.shortName}
+              compact
+            />
+            <GoalProjection
+              prediction={prediction}
+              homeTeam={homeTeam}
+              awayTeam={awayTeam}
+              compact
+            />
+          </div>
         ) : null}
         <Link
           href={`/matches/${match.id}`}

@@ -2,7 +2,7 @@
   {
     "id": "pred-M001",
     "matchId": "M001",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 43,
     "draw": 28,
@@ -10,6 +10,26 @@
     "confidence": 63,
     "homeStrength": 74,
     "awayStrength": 69,
+    "goalProjection": {
+      "homeExpectedGoals": 1.6,
+      "awayExpectedGoals": 1.3,
+      "homeWin": {
+        "goalsFor": 2.5,
+        "goalsAgainst": 0.7,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 21
+      },
+      "awayWin": {
+        "goalsFor": 2.3,
+        "goalsAgainst": 0.7,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 24
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -47,7 +67,7 @@
   {
     "id": "pred-M002",
     "matchId": "M002",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 38,
     "draw": 30,
@@ -55,6 +75,26 @@
     "confidence": 59,
     "homeStrength": 76,
     "awayStrength": 74,
+    "goalProjection": {
+      "homeExpectedGoals": 1.9,
+      "awayExpectedGoals": 1.6,
+      "homeWin": {
+        "goalsFor": 2.8,
+        "goalsAgainst": 0.9,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 19
+      },
+      "awayWin": {
+        "goalsFor": 2.7,
+        "goalsAgainst": 0.9,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 22
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -92,7 +132,7 @@
   {
     "id": "pred-M003",
     "matchId": "M003",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 45,
     "draw": 27,
@@ -100,6 +140,26 @@
     "confidence": 65,
     "homeStrength": 74,
     "awayStrength": 67,
+    "goalProjection": {
+      "homeExpectedGoals": 1.8,
+      "awayExpectedGoals": 1.3,
+      "homeWin": {
+        "goalsFor": 2.6,
+        "goalsAgainst": 0.7,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 19
+      },
+      "awayWin": {
+        "goalsFor": 2.4,
+        "goalsAgainst": 0.8,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 25
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -137,7 +197,7 @@
   {
     "id": "pred-M004",
     "matchId": "M004",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 47,
     "draw": 27,
@@ -145,6 +205,26 @@
     "confidence": 66,
     "homeStrength": 78,
     "awayStrength": 70,
+    "goalProjection": {
+      "homeExpectedGoals": 1.8,
+      "awayExpectedGoals": 1.1,
+      "homeWin": {
+        "goalsFor": 2.6,
+        "goalsAgainst": 0.6,
+        "homeScore": 1,
+        "awayScore": 0,
+        "scoreline": "1-0",
+        "scorelineProbability": 18
+      },
+      "awayWin": {
+        "goalsFor": 2.2,
+        "goalsAgainst": 0.7,
+        "homeScore": 0,
+        "awayScore": 1,
+        "scoreline": "0-1",
+        "scorelineProbability": 26
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -182,7 +262,7 @@
   {
     "id": "pred-M005",
     "matchId": "M005",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 28,
     "draw": 28,
@@ -190,6 +270,26 @@
     "confidence": 64,
     "homeStrength": 66,
     "awayStrength": 72,
+    "goalProjection": {
+      "homeExpectedGoals": 1.4,
+      "awayExpectedGoals": 1.7,
+      "homeWin": {
+        "goalsFor": 2.4,
+        "goalsAgainst": 0.8,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 24
+      },
+      "awayWin": {
+        "goalsFor": 2.6,
+        "goalsAgainst": 0.7,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 20
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -227,7 +327,7 @@
   {
     "id": "pred-M006",
     "matchId": "M006",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 28,
     "draw": 28,
@@ -235,6 +335,26 @@
     "confidence": 64,
     "homeStrength": 70,
     "awayStrength": 76,
+    "goalProjection": {
+      "homeExpectedGoals": 1.5,
+      "awayExpectedGoals": 2,
+      "homeWin": {
+        "goalsFor": 2.6,
+        "goalsAgainst": 0.9,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 23
+      },
+      "awayWin": {
+        "goalsFor": 2.9,
+        "goalsAgainst": 0.9,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 18
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -272,7 +392,7 @@
   {
     "id": "pred-M007",
     "matchId": "M007",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 41,
     "draw": 29,
@@ -280,6 +400,26 @@
     "confidence": 62,
     "homeStrength": 83,
     "awayStrength": 78,
+    "goalProjection": {
+      "homeExpectedGoals": 1.9,
+      "awayExpectedGoals": 1.6,
+      "homeWin": {
+        "goalsFor": 2.8,
+        "goalsAgainst": 0.9,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 19
+      },
+      "awayWin": {
+        "goalsFor": 2.7,
+        "goalsAgainst": 0.9,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 22
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -317,7 +457,7 @@
   {
     "id": "pred-M008",
     "matchId": "M008",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 32,
     "draw": 30,
@@ -325,6 +465,26 @@
     "confidence": 60,
     "homeStrength": 72,
     "awayStrength": 75,
+    "goalProjection": {
+      "homeExpectedGoals": 1.6,
+      "awayExpectedGoals": 1.7,
+      "homeWin": {
+        "goalsFor": 2.6,
+        "goalsAgainst": 0.8,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 22
+      },
+      "awayWin": {
+        "goalsFor": 2.7,
+        "goalsAgainst": 0.8,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 21
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -362,7 +522,7 @@
   {
     "id": "pred-M009",
     "matchId": "M009",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 36,
     "draw": 30,
@@ -370,6 +530,26 @@
     "confidence": 58,
     "homeStrength": 76,
     "awayStrength": 75,
+    "goalProjection": {
+      "homeExpectedGoals": 1.6,
+      "awayExpectedGoals": 1.4,
+      "homeWin": {
+        "goalsFor": 2.5,
+        "goalsAgainst": 0.7,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 21
+      },
+      "awayWin": {
+        "goalsFor": 2.4,
+        "goalsAgainst": 0.7,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 23
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -407,7 +587,7 @@
   {
     "id": "pred-M010",
     "matchId": "M010",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 60,
     "draw": 22,
@@ -415,6 +595,26 @@
     "confidence": 78,
     "homeStrength": 81,
     "awayStrength": 65,
+    "goalProjection": {
+      "homeExpectedGoals": 2.5,
+      "awayExpectedGoals": 1,
+      "homeWin": {
+        "goalsFor": 3.1,
+        "goalsAgainst": 0.7,
+        "homeScore": 2,
+        "awayScore": 0,
+        "scoreline": "2-0",
+        "scorelineProbability": 14
+      },
+      "awayWin": {
+        "goalsFor": 2.3,
+        "goalsAgainst": 0.8,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 29
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -452,7 +652,7 @@
   {
     "id": "pred-M011",
     "matchId": "M011",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 31,
     "draw": 29,
@@ -460,6 +660,26 @@
     "confidence": 60,
     "homeStrength": 80,
     "awayStrength": 83,
+    "goalProjection": {
+      "homeExpectedGoals": 1.7,
+      "awayExpectedGoals": 2.2,
+      "homeWin": {
+        "goalsFor": 2.8,
+        "goalsAgainst": 1.1,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 21
+      },
+      "awayWin": {
+        "goalsFor": 3.1,
+        "goalsAgainst": 1,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 17
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -497,7 +717,7 @@
   {
     "id": "pred-M012",
     "matchId": "M012",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 47,
     "draw": 27,
@@ -505,6 +725,26 @@
     "confidence": 67,
     "homeStrength": 77,
     "awayStrength": 69,
+    "goalProjection": {
+      "homeExpectedGoals": 2,
+      "awayExpectedGoals": 1.2,
+      "homeWin": {
+        "goalsFor": 2.8,
+        "goalsAgainst": 0.7,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 18
+      },
+      "awayWin": {
+        "goalsFor": 2.3,
+        "goalsAgainst": 0.8,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 26
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -542,7 +782,7 @@
   {
     "id": "pred-M013",
     "matchId": "M013",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 22,
     "draw": 25,
@@ -550,6 +790,26 @@
     "confidence": 71,
     "homeStrength": 70,
     "awayStrength": 81,
+    "goalProjection": {
+      "homeExpectedGoals": 1.1,
+      "awayExpectedGoals": 2.2,
+      "homeWin": {
+        "goalsFor": 2.3,
+        "goalsAgainst": 0.8,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 27
+      },
+      "awayWin": {
+        "goalsFor": 2.9,
+        "goalsAgainst": 0.7,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 16
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -587,7 +847,7 @@
   {
     "id": "pred-M014",
     "matchId": "M014",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 66,
     "draw": 20,
@@ -595,6 +855,26 @@
     "confidence": 83,
     "homeStrength": 87,
     "awayStrength": 67,
+    "goalProjection": {
+      "homeExpectedGoals": 2.7,
+      "awayExpectedGoals": 0.7,
+      "homeWin": {
+        "goalsFor": 3.1,
+        "goalsAgainst": 0.5,
+        "homeScore": 2,
+        "awayScore": 0,
+        "scoreline": "2-0",
+        "scorelineProbability": 15
+      },
+      "awayWin": {
+        "goalsFor": 2,
+        "goalsAgainst": 0.7,
+        "homeScore": 0,
+        "awayScore": 1,
+        "scoreline": "0-1",
+        "scorelineProbability": 33
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -632,7 +912,7 @@
   {
     "id": "pred-M015",
     "matchId": "M015",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 42,
     "draw": 29,
@@ -640,6 +920,26 @@
     "confidence": 62,
     "homeStrength": 75,
     "awayStrength": 70,
+    "goalProjection": {
+      "homeExpectedGoals": 2,
+      "awayExpectedGoals": 1.6,
+      "homeWin": {
+        "goalsFor": 2.9,
+        "goalsAgainst": 0.9,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 19
+      },
+      "awayWin": {
+        "goalsFor": 2.7,
+        "goalsAgainst": 1,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 22
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -677,7 +977,7 @@
   {
     "id": "pred-M016",
     "matchId": "M016",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 43,
     "draw": 28,
@@ -685,6 +985,26 @@
     "confidence": 63,
     "homeStrength": 78,
     "awayStrength": 73,
+    "goalProjection": {
+      "homeExpectedGoals": 1.9,
+      "awayExpectedGoals": 1.5,
+      "homeWin": {
+        "goalsFor": 2.8,
+        "goalsAgainst": 0.8,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 19
+      },
+      "awayWin": {
+        "goalsFor": 2.6,
+        "goalsAgainst": 0.9,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 23
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -722,7 +1042,7 @@
   {
     "id": "pred-M017",
     "matchId": "M017",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 52,
     "draw": 25,
@@ -730,6 +1050,26 @@
     "confidence": 70,
     "homeStrength": 88,
     "awayStrength": 77,
+    "goalProjection": {
+      "homeExpectedGoals": 2.3,
+      "awayExpectedGoals": 1.3,
+      "homeWin": {
+        "goalsFor": 3,
+        "goalsAgainst": 0.8,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 16
+      },
+      "awayWin": {
+        "goalsFor": 2.5,
+        "goalsAgainst": 0.9,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 26
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -767,7 +1107,7 @@
   {
     "id": "pred-M018",
     "matchId": "M018",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 21,
     "draw": 24,
@@ -775,6 +1115,26 @@
     "confidence": 73,
     "homeStrength": 70,
     "awayStrength": 83,
+    "goalProjection": {
+      "homeExpectedGoals": 1.1,
+      "awayExpectedGoals": 2.8,
+      "homeWin": {
+        "goalsFor": 2.5,
+        "goalsAgainst": 1,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 28
+      },
+      "awayWin": {
+        "goalsFor": 3.3,
+        "goalsAgainst": 0.8,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 12
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -812,7 +1172,7 @@
   {
     "id": "pred-M019",
     "matchId": "M019",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 60,
     "draw": 22,
@@ -820,6 +1180,26 @@
     "confidence": 78,
     "homeStrength": 87,
     "awayStrength": 71,
+    "goalProjection": {
+      "homeExpectedGoals": 2.4,
+      "awayExpectedGoals": 0.9,
+      "homeWin": {
+        "goalsFor": 3,
+        "goalsAgainst": 0.6,
+        "homeScore": 2,
+        "awayScore": 0,
+        "scoreline": "2-0",
+        "scorelineProbability": 15
+      },
+      "awayWin": {
+        "goalsFor": 2.2,
+        "goalsAgainst": 0.7,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 29
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -857,7 +1237,7 @@
   {
     "id": "pred-M020",
     "matchId": "M020",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 44,
     "draw": 28,
@@ -865,6 +1245,26 @@
     "confidence": 64,
     "homeStrength": 72,
     "awayStrength": 67,
+    "goalProjection": {
+      "homeExpectedGoals": 2,
+      "awayExpectedGoals": 1.3,
+      "homeWin": {
+        "goalsFor": 2.8,
+        "goalsAgainst": 0.8,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 18
+      },
+      "awayWin": {
+        "goalsFor": 2.4,
+        "goalsAgainst": 0.8,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 25
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -902,7 +1302,7 @@
   {
     "id": "pred-M021",
     "matchId": "M021",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 33,
     "draw": 30,
@@ -910,6 +1310,26 @@
     "confidence": 59,
     "homeStrength": 67,
     "awayStrength": 69,
+    "goalProjection": {
+      "homeExpectedGoals": 1.4,
+      "awayExpectedGoals": 1.7,
+      "homeWin": {
+        "goalsFor": 2.4,
+        "goalsAgainst": 0.8,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 24
+      },
+      "awayWin": {
+        "goalsFor": 2.6,
+        "goalsAgainst": 0.7,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 20
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -947,7 +1367,7 @@
   {
     "id": "pred-M022",
     "matchId": "M022",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 49,
     "draw": 26,
@@ -955,6 +1375,26 @@
     "confidence": 68,
     "homeStrength": 83,
     "awayStrength": 75,
+    "goalProjection": {
+      "homeExpectedGoals": 2.3,
+      "awayExpectedGoals": 1.1,
+      "homeWin": {
+        "goalsFor": 3,
+        "goalsAgainst": 0.7,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 15
+      },
+      "awayWin": {
+        "goalsFor": 2.3,
+        "goalsAgainst": 0.8,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 28
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -992,7 +1432,7 @@
   {
     "id": "pred-M023",
     "matchId": "M023",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 59,
     "draw": 23,
@@ -1000,6 +1440,26 @@
     "confidence": 76,
     "homeStrength": 85,
     "awayStrength": 70,
+    "goalProjection": {
+      "homeExpectedGoals": 2.7,
+      "awayExpectedGoals": 1,
+      "homeWin": {
+        "goalsFor": 3.2,
+        "goalsAgainst": 0.7,
+        "homeScore": 2,
+        "awayScore": 0,
+        "scoreline": "2-0",
+        "scorelineProbability": 12
+      },
+      "awayWin": {
+        "goalsFor": 2.3,
+        "goalsAgainst": 0.9,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 29
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -1037,7 +1497,7 @@
   {
     "id": "pred-M024",
     "matchId": "M024",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 28,
     "draw": 28,
@@ -1045,6 +1505,26 @@
     "confidence": 64,
     "homeStrength": 73,
     "awayStrength": 79,
+    "goalProjection": {
+      "homeExpectedGoals": 1.3,
+      "awayExpectedGoals": 1.9,
+      "homeWin": {
+        "goalsFor": 2.4,
+        "goalsAgainst": 0.8,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 25
+      },
+      "awayWin": {
+        "goalsFor": 2.7,
+        "goalsAgainst": 0.7,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 19
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -1082,7 +1562,7 @@
   {
     "id": "pred-M025",
     "matchId": "M025",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 42,
     "draw": 28,
@@ -1090,6 +1570,26 @@
     "confidence": 63,
     "homeStrength": 74,
     "awayStrength": 69,
+    "goalProjection": {
+      "homeExpectedGoals": 1.8,
+      "awayExpectedGoals": 1.3,
+      "homeWin": {
+        "goalsFor": 2.6,
+        "goalsAgainst": 0.7,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 19
+      },
+      "awayWin": {
+        "goalsFor": 2.4,
+        "goalsAgainst": 0.8,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 25
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -1127,7 +1627,7 @@
   {
     "id": "pred-M026",
     "matchId": "M026",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 47,
     "draw": 27,
@@ -1135,6 +1635,26 @@
     "confidence": 66,
     "homeStrength": 75,
     "awayStrength": 67,
+    "goalProjection": {
+      "homeExpectedGoals": 1.9,
+      "awayExpectedGoals": 1.2,
+      "homeWin": {
+        "goalsFor": 2.7,
+        "goalsAgainst": 0.7,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 18
+      },
+      "awayWin": {
+        "goalsFor": 2.3,
+        "goalsAgainst": 0.8,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 26
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -1172,7 +1692,7 @@
   {
     "id": "pred-M027",
     "matchId": "M027",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 38,
     "draw": 30,
@@ -1180,6 +1700,26 @@
     "confidence": 59,
     "homeStrength": 74,
     "awayStrength": 72,
+    "goalProjection": {
+      "homeExpectedGoals": 1.5,
+      "awayExpectedGoals": 1.6,
+      "homeWin": {
+        "goalsFor": 2.5,
+        "goalsAgainst": 0.8,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 23
+      },
+      "awayWin": {
+        "goalsFor": 2.5,
+        "goalsAgainst": 0.8,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 21
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -1217,7 +1757,7 @@
   {
     "id": "pred-M028",
     "matchId": "M028",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 33,
     "draw": 30,
@@ -1225,6 +1765,26 @@
     "confidence": 59,
     "homeStrength": 74,
     "awayStrength": 76,
+    "goalProjection": {
+      "homeExpectedGoals": 1.5,
+      "awayExpectedGoals": 1.9,
+      "homeWin": {
+        "goalsFor": 2.6,
+        "goalsAgainst": 0.9,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 23
+      },
+      "awayWin": {
+        "goalsFor": 2.8,
+        "goalsAgainst": 0.8,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 19
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -1262,7 +1822,7 @@
   {
     "id": "pred-M029",
     "matchId": "M029",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 61,
     "draw": 22,
@@ -1270,6 +1830,26 @@
     "confidence": 78,
     "homeStrength": 83,
     "awayStrength": 66,
+    "goalProjection": {
+      "homeExpectedGoals": 2.5,
+      "awayExpectedGoals": 1,
+      "homeWin": {
+        "goalsFor": 3.1,
+        "goalsAgainst": 0.7,
+        "homeScore": 2,
+        "awayScore": 0,
+        "scoreline": "2-0",
+        "scorelineProbability": 14
+      },
+      "awayWin": {
+        "goalsFor": 2.3,
+        "goalsAgainst": 0.8,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 29
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -1307,7 +1887,7 @@
   {
     "id": "pred-M030",
     "matchId": "M030",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 27,
     "draw": 27,
@@ -1315,6 +1895,26 @@
     "confidence": 65,
     "homeStrength": 72,
     "awayStrength": 78,
+    "goalProjection": {
+      "homeExpectedGoals": 1.2,
+      "awayExpectedGoals": 2.1,
+      "homeWin": {
+        "goalsFor": 2.4,
+        "goalsAgainst": 0.8,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 26
+      },
+      "awayWin": {
+        "goalsFor": 2.8,
+        "goalsAgainst": 0.7,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 17
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -1352,7 +1952,7 @@
   {
     "id": "pred-M031",
     "matchId": "M031",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 43,
     "draw": 28,
@@ -1360,6 +1960,26 @@
     "confidence": 63,
     "homeStrength": 76,
     "awayStrength": 70,
+    "goalProjection": {
+      "homeExpectedGoals": 1.9,
+      "awayExpectedGoals": 1.2,
+      "homeWin": {
+        "goalsFor": 2.7,
+        "goalsAgainst": 0.7,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 18
+      },
+      "awayWin": {
+        "goalsFor": 2.3,
+        "goalsAgainst": 0.8,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 26
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -1397,7 +2017,7 @@
   {
     "id": "pred-M032",
     "matchId": "M032",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 47,
     "draw": 27,
@@ -1405,6 +2025,26 @@
     "confidence": 66,
     "homeStrength": 78,
     "awayStrength": 70,
+    "goalProjection": {
+      "homeExpectedGoals": 1.9,
+      "awayExpectedGoals": 1.3,
+      "homeWin": {
+        "goalsFor": 2.7,
+        "goalsAgainst": 0.7,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 19
+      },
+      "awayWin": {
+        "goalsFor": 2.4,
+        "goalsAgainst": 0.8,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 25
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -1442,7 +2082,7 @@
   {
     "id": "pred-M033",
     "matchId": "M033",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 43,
     "draw": 28,
@@ -1450,6 +2090,26 @@
     "confidence": 63,
     "homeStrength": 81,
     "awayStrength": 76,
+    "goalProjection": {
+      "homeExpectedGoals": 2.2,
+      "awayExpectedGoals": 1.5,
+      "homeWin": {
+        "goalsFor": 3,
+        "goalsAgainst": 0.9,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 17
+      },
+      "awayWin": {
+        "goalsFor": 2.7,
+        "goalsAgainst": 1,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 24
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -1487,7 +2147,7 @@
   {
     "id": "pred-M034",
     "matchId": "M034",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 51,
     "draw": 26,
@@ -1495,6 +2155,26 @@
     "confidence": 69,
     "homeStrength": 75,
     "awayStrength": 65,
+    "goalProjection": {
+      "homeExpectedGoals": 1.7,
+      "awayExpectedGoals": 1,
+      "homeWin": {
+        "goalsFor": 2.5,
+        "goalsAgainst": 0.5,
+        "homeScore": 1,
+        "awayScore": 0,
+        "scoreline": "1-0",
+        "scorelineProbability": 21
+      },
+      "awayWin": {
+        "goalsFor": 2.1,
+        "goalsAgainst": 0.6,
+        "homeScore": 0,
+        "awayScore": 1,
+        "scoreline": "0-1",
+        "scorelineProbability": 30
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -1532,7 +2212,7 @@
   {
     "id": "pred-M035",
     "matchId": "M035",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 39,
     "draw": 29,
@@ -1540,6 +2220,26 @@
     "confidence": 60,
     "homeStrength": 80,
     "awayStrength": 77,
+    "goalProjection": {
+      "homeExpectedGoals": 2.1,
+      "awayExpectedGoals": 1.8,
+      "homeWin": {
+        "goalsFor": 3,
+        "goalsAgainst": 1,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 18
+      },
+      "awayWin": {
+        "goalsFor": 2.9,
+        "goalsAgainst": 1.1,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 20
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -1577,7 +2277,7 @@
   {
     "id": "pred-M036",
     "matchId": "M036",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 20,
     "draw": 23,
@@ -1585,6 +2285,26 @@
     "confidence": 74,
     "homeStrength": 69,
     "awayStrength": 83,
+    "goalProjection": {
+      "homeExpectedGoals": 0.8,
+      "awayExpectedGoals": 2.5,
+      "homeWin": {
+        "goalsFor": 2.1,
+        "goalsAgainst": 0.7,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 30
+      },
+      "awayWin": {
+        "goalsFor": 3,
+        "goalsAgainst": 0.6,
+        "homeScore": 0,
+        "awayScore": 2,
+        "scoreline": "0-2",
+        "scorelineProbability": 16
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -1622,7 +2342,7 @@
   {
     "id": "pred-M037",
     "matchId": "M037",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 57,
     "draw": 24,
@@ -1630,6 +2350,26 @@
     "confidence": 74,
     "homeStrength": 81,
     "awayStrength": 67,
+    "goalProjection": {
+      "homeExpectedGoals": 2.2,
+      "awayExpectedGoals": 1,
+      "homeWin": {
+        "goalsFor": 2.8,
+        "goalsAgainst": 0.6,
+        "homeScore": 2,
+        "awayScore": 0,
+        "scoreline": "2-0",
+        "scorelineProbability": 15
+      },
+      "awayWin": {
+        "goalsFor": 2.2,
+        "goalsAgainst": 0.8,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 28
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -1667,7 +2407,7 @@
   {
     "id": "pred-M038",
     "matchId": "M038",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 63,
     "draw": 21,
@@ -1675,6 +2415,26 @@
     "confidence": 80,
     "homeStrength": 87,
     "awayStrength": 70,
+    "goalProjection": {
+      "homeExpectedGoals": 2.7,
+      "awayExpectedGoals": 0.8,
+      "homeWin": {
+        "goalsFor": 3.1,
+        "goalsAgainst": 0.6,
+        "homeScore": 2,
+        "awayScore": 0,
+        "scoreline": "2-0",
+        "scorelineProbability": 14
+      },
+      "awayWin": {
+        "goalsFor": 2.1,
+        "goalsAgainst": 0.8,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 30
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -1712,7 +2472,7 @@
   {
     "id": "pred-M039",
     "matchId": "M039",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 40,
     "draw": 29,
@@ -1720,6 +2480,26 @@
     "confidence": 61,
     "homeStrength": 78,
     "awayStrength": 75,
+    "goalProjection": {
+      "homeExpectedGoals": 1.9,
+      "awayExpectedGoals": 1.8,
+      "homeWin": {
+        "goalsFor": 2.9,
+        "goalsAgainst": 1,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 20
+      },
+      "awayWin": {
+        "goalsFor": 2.8,
+        "goalsAgainst": 1,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 20
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -1757,7 +2537,7 @@
   {
     "id": "pred-M040",
     "matchId": "M040",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 31,
     "draw": 29,
@@ -1765,6 +2545,26 @@
     "confidence": 60,
     "homeStrength": 70,
     "awayStrength": 73,
+    "goalProjection": {
+      "homeExpectedGoals": 1.5,
+      "awayExpectedGoals": 1.6,
+      "homeWin": {
+        "goalsFor": 2.5,
+        "goalsAgainst": 0.8,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 23
+      },
+      "awayWin": {
+        "goalsFor": 2.5,
+        "goalsAgainst": 0.8,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 21
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -1802,7 +2602,7 @@
   {
     "id": "pred-M041",
     "matchId": "M041",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 45,
     "draw": 28,
@@ -1810,6 +2610,26 @@
     "confidence": 64,
     "homeStrength": 83,
     "awayStrength": 77,
+    "goalProjection": {
+      "homeExpectedGoals": 2.5,
+      "awayExpectedGoals": 1.5,
+      "homeWin": {
+        "goalsFor": 3.2,
+        "goalsAgainst": 1,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 15
+      },
+      "awayWin": {
+        "goalsFor": 2.8,
+        "goalsAgainst": 1.1,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 23
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -1847,7 +2667,7 @@
   {
     "id": "pred-M042",
     "matchId": "M042",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 62,
     "draw": 21,
@@ -1855,6 +2675,26 @@
     "confidence": 79,
     "homeStrength": 88,
     "awayStrength": 70,
+    "goalProjection": {
+      "homeExpectedGoals": 2.6,
+      "awayExpectedGoals": 0.9,
+      "homeWin": {
+        "goalsFor": 3.1,
+        "goalsAgainst": 0.6,
+        "homeScore": 2,
+        "awayScore": 0,
+        "scoreline": "2-0",
+        "scorelineProbability": 14
+      },
+      "awayWin": {
+        "goalsFor": 2.2,
+        "goalsAgainst": 0.8,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 30
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -1892,7 +2732,7 @@
   {
     "id": "pred-M043",
     "matchId": "M043",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 58,
     "draw": 23,
@@ -1900,6 +2740,26 @@
     "confidence": 75,
     "homeStrength": 87,
     "awayStrength": 72,
+    "goalProjection": {
+      "homeExpectedGoals": 2.3,
+      "awayExpectedGoals": 1.2,
+      "homeWin": {
+        "goalsFor": 3,
+        "goalsAgainst": 0.8,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 16
+      },
+      "awayWin": {
+        "goalsFor": 2.4,
+        "goalsAgainst": 0.9,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 27
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -1937,7 +2797,7 @@
   {
     "id": "pred-M044",
     "matchId": "M044",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 30,
     "draw": 29,
@@ -1945,6 +2805,26 @@
     "confidence": 61,
     "homeStrength": 67,
     "awayStrength": 71,
+    "goalProjection": {
+      "homeExpectedGoals": 1.3,
+      "awayExpectedGoals": 1.7,
+      "homeWin": {
+        "goalsFor": 2.4,
+        "goalsAgainst": 0.7,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 24
+      },
+      "awayWin": {
+        "goalsFor": 2.6,
+        "goalsAgainst": 0.7,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 20
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -1982,7 +2862,7 @@
   {
     "id": "pred-M045",
     "matchId": "M045",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 61,
     "draw": 22,
@@ -1990,6 +2870,26 @@
     "confidence": 78,
     "homeStrength": 83,
     "awayStrength": 67,
+    "goalProjection": {
+      "homeExpectedGoals": 2.6,
+      "awayExpectedGoals": 0.9,
+      "homeWin": {
+        "goalsFor": 3.1,
+        "goalsAgainst": 0.6,
+        "homeScore": 2,
+        "awayScore": 0,
+        "scoreline": "2-0",
+        "scorelineProbability": 14
+      },
+      "awayWin": {
+        "goalsFor": 2.2,
+        "goalsAgainst": 0.8,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 30
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -2027,7 +2927,7 @@
   {
     "id": "pred-M046",
     "matchId": "M046",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 28,
     "draw": 28,
@@ -2035,6 +2935,26 @@
     "confidence": 64,
     "homeStrength": 69,
     "awayStrength": 75,
+    "goalProjection": {
+      "homeExpectedGoals": 1.3,
+      "awayExpectedGoals": 1.6,
+      "homeWin": {
+        "goalsFor": 2.3,
+        "goalsAgainst": 0.7,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 24
+      },
+      "awayWin": {
+        "goalsFor": 2.5,
+        "goalsAgainst": 0.7,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 21
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -2072,7 +2992,7 @@
   {
     "id": "pred-M047",
     "matchId": "M047",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 55,
     "draw": 24,
@@ -2080,6 +3000,26 @@
     "confidence": 73,
     "homeStrength": 85,
     "awayStrength": 73,
+    "goalProjection": {
+      "homeExpectedGoals": 2.5,
+      "awayExpectedGoals": 1.1,
+      "homeWin": {
+        "goalsFor": 3.1,
+        "goalsAgainst": 0.7,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 14
+      },
+      "awayWin": {
+        "goalsFor": 2.4,
+        "goalsAgainst": 0.9,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 28
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -2117,7 +3057,7 @@
   {
     "id": "pred-M048",
     "matchId": "M048",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 49,
     "draw": 26,
@@ -2125,6 +3065,26 @@
     "confidence": 68,
     "homeStrength": 79,
     "awayStrength": 70,
+    "goalProjection": {
+      "homeExpectedGoals": 2.1,
+      "awayExpectedGoals": 1.1,
+      "homeWin": {
+        "goalsFor": 2.8,
+        "goalsAgainst": 0.7,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 16
+      },
+      "awayWin": {
+        "goalsFor": 2.3,
+        "goalsAgainst": 0.8,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 27
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -2162,7 +3122,7 @@
   {
     "id": "pred-M049",
     "matchId": "M049",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 23,
     "draw": 25,
@@ -2170,6 +3130,26 @@
     "confidence": 70,
     "homeStrength": 72,
     "awayStrength": 83,
+    "goalProjection": {
+      "homeExpectedGoals": 1.1,
+      "awayExpectedGoals": 2.3,
+      "homeWin": {
+        "goalsFor": 2.3,
+        "goalsAgainst": 0.8,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 28
+      },
+      "awayWin": {
+        "goalsFor": 3,
+        "goalsAgainst": 0.7,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 15
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -2207,7 +3187,7 @@
   {
     "id": "pred-M050",
     "matchId": "M050",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 55,
     "draw": 24,
@@ -2215,6 +3195,26 @@
     "confidence": 73,
     "homeStrength": 78,
     "awayStrength": 66,
+    "goalProjection": {
+      "homeExpectedGoals": 2.2,
+      "awayExpectedGoals": 1.1,
+      "homeWin": {
+        "goalsFor": 2.9,
+        "goalsAgainst": 0.7,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 16
+      },
+      "awayWin": {
+        "goalsFor": 2.3,
+        "goalsAgainst": 0.8,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 27
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -2252,7 +3252,7 @@
   {
     "id": "pred-M051",
     "matchId": "M051",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 36,
     "draw": 31,
@@ -2260,6 +3260,26 @@
     "confidence": 57,
     "homeStrength": 75,
     "awayStrength": 74,
+    "goalProjection": {
+      "homeExpectedGoals": 1.6,
+      "awayExpectedGoals": 1.4,
+      "homeWin": {
+        "goalsFor": 2.5,
+        "goalsAgainst": 0.7,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 21
+      },
+      "awayWin": {
+        "goalsFor": 2.4,
+        "goalsAgainst": 0.7,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 23
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -2297,7 +3317,7 @@
   {
     "id": "pred-M052",
     "matchId": "M052",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 29,
     "draw": 28,
@@ -2305,6 +3325,26 @@
     "confidence": 62,
     "homeStrength": 67,
     "awayStrength": 72,
+    "goalProjection": {
+      "homeExpectedGoals": 1.3,
+      "awayExpectedGoals": 2,
+      "homeWin": {
+        "goalsFor": 2.4,
+        "goalsAgainst": 0.8,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 25
+      },
+      "awayWin": {
+        "goalsFor": 2.8,
+        "goalsAgainst": 0.8,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 18
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -2342,7 +3382,7 @@
   {
     "id": "pred-M053",
     "matchId": "M053",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 34,
     "draw": 31,
@@ -2350,6 +3390,26 @@
     "confidence": 57,
     "homeStrength": 74,
     "awayStrength": 74,
+    "goalProjection": {
+      "homeExpectedGoals": 1.7,
+      "awayExpectedGoals": 1.6,
+      "homeWin": {
+        "goalsFor": 2.7,
+        "goalsAgainst": 0.8,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 21
+      },
+      "awayWin": {
+        "goalsFor": 2.6,
+        "goalsAgainst": 0.8,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 22
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -2387,7 +3447,7 @@
   {
     "id": "pred-M054",
     "matchId": "M054",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 27,
     "draw": 27,
@@ -2395,6 +3455,26 @@
     "confidence": 65,
     "homeStrength": 69,
     "awayStrength": 76,
+    "goalProjection": {
+      "homeExpectedGoals": 1.2,
+      "awayExpectedGoals": 1.9,
+      "homeWin": {
+        "goalsFor": 2.3,
+        "goalsAgainst": 0.8,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 26
+      },
+      "awayWin": {
+        "goalsFor": 2.7,
+        "goalsAgainst": 0.7,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 18
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -2432,7 +3512,7 @@
   {
     "id": "pred-M055",
     "matchId": "M055",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 23,
     "draw": 25,
@@ -2440,6 +3520,26 @@
     "confidence": 71,
     "homeStrength": 65,
     "awayStrength": 76,
+    "goalProjection": {
+      "homeExpectedGoals": 1.1,
+      "awayExpectedGoals": 1.9,
+      "homeWin": {
+        "goalsFor": 2.2,
+        "goalsAgainst": 0.7,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 26
+      },
+      "awayWin": {
+        "goalsFor": 2.6,
+        "goalsAgainst": 0.6,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 18
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -2477,7 +3577,7 @@
   {
     "id": "pred-M056",
     "matchId": "M056",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 28,
     "draw": 28,
@@ -2485,6 +3585,26 @@
     "confidence": 65,
     "homeStrength": 75,
     "awayStrength": 81,
+    "goalProjection": {
+      "homeExpectedGoals": 1.3,
+      "awayExpectedGoals": 2.1,
+      "homeWin": {
+        "goalsFor": 2.5,
+        "goalsAgainst": 0.9,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 25
+      },
+      "awayWin": {
+        "goalsFor": 2.9,
+        "goalsAgainst": 0.8,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 17
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -2522,7 +3642,7 @@
   {
     "id": "pred-M057",
     "matchId": "M057",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 44,
     "draw": 28,
@@ -2530,6 +3650,26 @@
     "confidence": 64,
     "homeStrength": 83,
     "awayStrength": 77,
+    "goalProjection": {
+      "homeExpectedGoals": 2.4,
+      "awayExpectedGoals": 1.6,
+      "homeWin": {
+        "goalsFor": 3.2,
+        "goalsAgainst": 1,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 15
+      },
+      "awayWin": {
+        "goalsFor": 2.8,
+        "goalsAgainst": 1.1,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 22
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -2567,7 +3707,7 @@
   {
     "id": "pred-M058",
     "matchId": "M058",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 23,
     "draw": 25,
@@ -2575,6 +3715,26 @@
     "confidence": 71,
     "homeStrength": 69,
     "awayStrength": 80,
+    "goalProjection": {
+      "homeExpectedGoals": 1,
+      "awayExpectedGoals": 2.2,
+      "homeWin": {
+        "goalsFor": 2.2,
+        "goalsAgainst": 0.8,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 28
+      },
+      "awayWin": {
+        "goalsFor": 2.8,
+        "goalsAgainst": 0.6,
+        "homeScore": 0,
+        "awayScore": 2,
+        "scoreline": "0-2",
+        "scorelineProbability": 15
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -2612,7 +3772,7 @@
   {
     "id": "pred-M059",
     "matchId": "M059",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 32,
     "draw": 30,
@@ -2620,6 +3780,26 @@
     "confidence": 59,
     "homeStrength": 76,
     "awayStrength": 78,
+    "goalProjection": {
+      "homeExpectedGoals": 1.8,
+      "awayExpectedGoals": 1.8,
+      "homeWin": {
+        "goalsFor": 2.8,
+        "goalsAgainst": 0.9,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 20
+      },
+      "awayWin": {
+        "goalsFor": 2.8,
+        "goalsAgainst": 0.9,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 20
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -2657,7 +3837,7 @@
   {
     "id": "pred-M060",
     "matchId": "M060",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 35,
     "draw": 31,
@@ -2665,6 +3845,26 @@
     "confidence": 56,
     "homeStrength": 70,
     "awayStrength": 70,
+    "goalProjection": {
+      "homeExpectedGoals": 1.3,
+      "awayExpectedGoals": 1.5,
+      "homeWin": {
+        "goalsFor": 2.3,
+        "goalsAgainst": 0.7,
+        "homeScore": 1,
+        "awayScore": 0,
+        "scoreline": "1-0",
+        "scorelineProbability": 24
+      },
+      "awayWin": {
+        "goalsFor": 2.4,
+        "goalsAgainst": 0.6,
+        "homeScore": 0,
+        "awayScore": 1,
+        "scoreline": "0-1",
+        "scorelineProbability": 22
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -2702,7 +3902,7 @@
   {
     "id": "pred-M061",
     "matchId": "M061",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 30,
     "draw": 29,
@@ -2710,6 +3910,26 @@
     "confidence": 62,
     "homeStrength": 83,
     "awayStrength": 88,
+    "goalProjection": {
+      "homeExpectedGoals": 2.2,
+      "awayExpectedGoals": 2.1,
+      "homeWin": {
+        "goalsFor": 3.2,
+        "goalsAgainst": 1.2,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 17
+      },
+      "awayWin": {
+        "goalsFor": 3.2,
+        "goalsAgainst": 1.2,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 17
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -2747,7 +3967,7 @@
   {
     "id": "pred-M062",
     "matchId": "M062",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 45,
     "draw": 27,
@@ -2755,6 +3975,26 @@
     "confidence": 65,
     "homeStrength": 77,
     "awayStrength": 70,
+    "goalProjection": {
+      "homeExpectedGoals": 1.9,
+      "awayExpectedGoals": 1.3,
+      "homeWin": {
+        "goalsFor": 2.7,
+        "goalsAgainst": 0.7,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 19
+      },
+      "awayWin": {
+        "goalsFor": 2.4,
+        "goalsAgainst": 0.8,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 25
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -2792,7 +4032,7 @@
   {
     "id": "pred-M063",
     "matchId": "M063",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 33,
     "draw": 30,
@@ -2800,6 +4040,26 @@
     "confidence": 59,
     "homeStrength": 73,
     "awayStrength": 75,
+    "goalProjection": {
+      "homeExpectedGoals": 1.6,
+      "awayExpectedGoals": 1.9,
+      "homeWin": {
+        "goalsFor": 2.7,
+        "goalsAgainst": 0.9,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 22
+      },
+      "awayWin": {
+        "goalsFor": 2.8,
+        "goalsAgainst": 0.9,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 19
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -2837,7 +4097,7 @@
   {
     "id": "pred-M064",
     "matchId": "M064",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 26,
     "draw": 27,
@@ -2845,6 +4105,26 @@
     "confidence": 67,
     "homeStrength": 70,
     "awayStrength": 78,
+    "goalProjection": {
+      "homeExpectedGoals": 1.5,
+      "awayExpectedGoals": 2,
+      "homeWin": {
+        "goalsFor": 2.6,
+        "goalsAgainst": 0.9,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 23
+      },
+      "awayWin": {
+        "goalsFor": 2.9,
+        "goalsAgainst": 0.9,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 18
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -2882,7 +4162,7 @@
   {
     "id": "pred-M065",
     "matchId": "M065",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 32,
     "draw": 30,
@@ -2890,6 +4170,26 @@
     "confidence": 59,
     "homeStrength": 67,
     "awayStrength": 70,
+    "goalProjection": {
+      "homeExpectedGoals": 1.4,
+      "awayExpectedGoals": 1.5,
+      "homeWin": {
+        "goalsFor": 2.4,
+        "goalsAgainst": 0.7,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 23
+      },
+      "awayWin": {
+        "goalsFor": 2.4,
+        "goalsAgainst": 0.7,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 22
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -2927,7 +4227,7 @@
   {
     "id": "pred-M066",
     "matchId": "M066",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 27,
     "draw": 27,
@@ -2935,6 +4235,26 @@
     "confidence": 65,
     "homeStrength": 81,
     "awayStrength": 87,
+    "goalProjection": {
+      "homeExpectedGoals": 1.5,
+      "awayExpectedGoals": 2.3,
+      "homeWin": {
+        "goalsFor": 2.7,
+        "goalsAgainst": 1,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 24
+      },
+      "awayWin": {
+        "goalsFor": 3.1,
+        "goalsAgainst": 0.9,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 16
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -2972,7 +4292,7 @@
   {
     "id": "pred-M067",
     "matchId": "M067",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 19,
     "draw": 23,
@@ -2980,6 +4300,26 @@
     "confidence": 76,
     "homeStrength": 69,
     "awayStrength": 83,
+    "goalProjection": {
+      "homeExpectedGoals": 1.1,
+      "awayExpectedGoals": 2.5,
+      "homeWin": {
+        "goalsFor": 2.4,
+        "goalsAgainst": 0.9,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 28
+      },
+      "awayWin": {
+        "goalsFor": 3.1,
+        "goalsAgainst": 0.7,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 14
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -3017,7 +4357,7 @@
   {
     "id": "pred-M068",
     "matchId": "M068",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 47,
     "draw": 27,
@@ -3025,6 +4365,26 @@
     "confidence": 67,
     "homeStrength": 75,
     "awayStrength": 67,
+    "goalProjection": {
+      "homeExpectedGoals": 1.7,
+      "awayExpectedGoals": 1.2,
+      "homeWin": {
+        "goalsFor": 2.5,
+        "goalsAgainst": 0.6,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 19
+      },
+      "awayWin": {
+        "goalsFor": 2.3,
+        "goalsAgainst": 0.7,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 25
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -3062,7 +4422,7 @@
   {
     "id": "pred-M069",
     "matchId": "M069",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 33,
     "draw": 30,
@@ -3070,6 +4430,26 @@
     "confidence": 59,
     "homeStrength": 71,
     "awayStrength": 72,
+    "goalProjection": {
+      "homeExpectedGoals": 1.5,
+      "awayExpectedGoals": 1.8,
+      "homeWin": {
+        "goalsFor": 2.6,
+        "goalsAgainst": 0.8,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 23
+      },
+      "awayWin": {
+        "goalsFor": 2.7,
+        "goalsAgainst": 0.8,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 20
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -3107,7 +4487,7 @@
   {
     "id": "pred-M070",
     "matchId": "M070",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 14,
     "draw": 20,
@@ -3115,6 +4495,26 @@
     "confidence": 82,
     "homeStrength": 67,
     "awayStrength": 87,
+    "goalProjection": {
+      "homeExpectedGoals": 0.7,
+      "awayExpectedGoals": 2.6,
+      "homeWin": {
+        "goalsFor": 2,
+        "goalsAgainst": 0.7,
+        "homeScore": 1,
+        "awayScore": 0,
+        "scoreline": "1-0",
+        "scorelineProbability": 33
+      },
+      "awayWin": {
+        "goalsFor": 3,
+        "goalsAgainst": 0.5,
+        "homeScore": 0,
+        "awayScore": 2,
+        "scoreline": "0-2",
+        "scorelineProbability": 16
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -3152,7 +4552,7 @@
   {
     "id": "pred-M071",
     "matchId": "M071",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 28,
     "draw": 28,
@@ -3160,6 +4560,26 @@
     "confidence": 65,
     "homeStrength": 79,
     "awayStrength": 85,
+    "goalProjection": {
+      "homeExpectedGoals": 1.6,
+      "awayExpectedGoals": 2.4,
+      "homeWin": {
+        "goalsFor": 2.8,
+        "goalsAgainst": 1.1,
+        "homeScore": 2,
+        "awayScore": 1,
+        "scoreline": "2-1",
+        "scorelineProbability": 22
+      },
+      "awayWin": {
+        "goalsFor": 3.2,
+        "goalsAgainst": 1,
+        "homeScore": 1,
+        "awayScore": 2,
+        "scoreline": "1-2",
+        "scorelineProbability": 15
+      }
+    },
     "factors": [
       {
         "label": "Rating base",
@@ -3197,7 +4617,7 @@
   {
     "id": "pred-M072",
     "matchId": "M072",
-    "generatedAt": "2026-05-25T17:06:18.181Z",
+    "generatedAt": "2026-05-26T18:09:39.027Z",
     "modelVersion": "2026.1-json-v1",
     "homeWin": 31,
     "draw": 29,
@@ -3205,6 +4625,26 @@
     "confidence": 60,
     "homeStrength": 70,
     "awayStrength": 73,
+    "goalProjection": {
+      "homeExpectedGoals": 1.2,
+      "awayExpectedGoals": 1.6,
+      "homeWin": {
+        "goalsFor": 2.2,
+        "goalsAgainst": 0.7,
+        "homeScore": 1,
+        "awayScore": 0,
+        "scoreline": "1-0",
+        "scorelineProbability": 25
+      },
+      "awayWin": {
+        "goalsFor": 2.4,
+        "goalsAgainst": 0.6,
+        "homeScore": 0,
+        "awayScore": 1,
+        "scoreline": "0-1",
+        "scorelineProbability": 21
+      }
+    },
     "factors": [
       {
         "label": "Rating base",

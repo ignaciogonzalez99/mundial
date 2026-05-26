@@ -105,11 +105,11 @@ export function AdminPanel({ matches, teams, syncLog }: AdminPanelProps) {
           </div>
           <div className="grid grid-cols-2 gap-3">
             <div className="space-y-2">
-              <Label>{teamsMap.get(selectedMatch?.homeTeamId ?? "")?.shortName ?? "Local"}</Label>
+              <Label>{teamsMap.get(selectedMatch?.homeTeamId ?? "")?.shortName ?? "Equipo 1"}</Label>
               <Input type="number" min={0} max={30} value={homeScore} onChange={(event) => setHomeScore(Number(event.target.value))} />
             </div>
             <div className="space-y-2">
-              <Label>{teamsMap.get(selectedMatch?.awayTeamId ?? "")?.shortName ?? "Visita"}</Label>
+              <Label>{teamsMap.get(selectedMatch?.awayTeamId ?? "")?.shortName ?? "Equipo 2"}</Label>
               <Input type="number" min={0} max={30} value={awayScore} onChange={(event) => setAwayScore(Number(event.target.value))} />
             </div>
           </div>

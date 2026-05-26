@@ -6,6 +6,7 @@ import { PageHeader } from "@/components/common/page-header";
 import { StatCard } from "@/components/common/stat-card";
 import { PredictionDonut } from "@/components/charts/prediction-donut";
 import { ResultForm } from "@/components/matches/result-form";
+import { GoalProjection } from "@/components/predictions/goal-projection";
 import { ProbabilityBar } from "@/components/predictions/probability-bar";
 import { getTournamentData } from "@/lib/analysis";
 import { formatDate, predictionByMatchId } from "@/lib/view";
@@ -41,8 +42,8 @@ export default async function MatchPage({ params }: MatchPageProps) {
       />
 
       <div className="grid gap-4 md:grid-cols-3">
-        <StatCard label="Fuerza local" value={prediction?.homeStrength ?? "-"} detail={homeTeam.name} icon={Gauge} />
-        <StatCard label="Fuerza visita" value={prediction?.awayStrength ?? "-"} detail={awayTeam.name} icon={Gauge} />
+        <StatCard label={homeTeam.name} value={prediction?.homeStrength ?? "-"} detail="Fuerza estimada" icon={Gauge} />
+        <StatCard label={awayTeam.name} value={prediction?.awayStrength ?? "-"} detail="Fuerza estimada" icon={Gauge} />
         <StatCard label="Confianza" value={prediction ? `${prediction.confidence}%` : "-"} detail="Lectura del modelo" icon={BarChart3} />
       </div>
 
@@ -58,12 +59,31 @@ export default async function MatchPage({ params }: MatchPageProps) {
                   home={prediction.homeWin}
                   draw={prediction.draw}
                   away={prediction.awayWin}
+                  homeLabel={homeTeam.shortName}
+                  awayLabel={awayTeam.shortName}
                 />
                 <ProbabilityBar
                   home={prediction.homeWin}
                   draw={prediction.draw}
                   away={prediction.awayWin}
+                  homeLabel={homeTeam.shortName}
+                  awayLabel={awayTeam.shortName}
                 />
+                <div className="space-y-3">
+                  <div>
+                    <h2 className="text-sm font-semibold text-foreground">
+                      Goles probables si gana cada equipo
+                    </h2>
+                    <p className="mt-1 text-xs leading-5 text-muted-foreground">
+                      Estimacion condicionada al escenario de victoria de cada seleccion.
+                    </p>
+                  </div>
+                  <GoalProjection
+                    prediction={prediction}
+                    homeTeam={homeTeam}
+                    awayTeam={awayTeam}
+                  />
+                </div>
                 <p className="text-sm leading-6 text-muted-foreground">
                   {prediction.explanation}
                 </p>
@@ -72,9 +92,14 @@ export default async function MatchPage({ params }: MatchPageProps) {
                     <div key={factor.label} className="rounded-lg border border-border p-4">
                       <div className="flex items-center justify-between gap-3">
                         <p className="font-medium">{factor.label}</p>
-                        <Badge variant="secondary">
-                          {Math.round(factor.homeImpact)} · {Math.round(factor.awayImpact)}
-                        </Badge>
+                        <div className="flex flex-wrap justify-end gap-2">
+                          <Badge variant="secondary">
+                            {homeTeam.shortName} {Math.round(factor.homeImpact)}
+                          </Badge>
+                          <Badge variant="secondary">
+                            {awayTeam.shortName} {Math.round(factor.awayImpact)}
+                          </Badge>
+                        </div>
                       </div>
                       <p className="mt-2 text-sm leading-6 text-muted-foreground">
                         {factor.note}
